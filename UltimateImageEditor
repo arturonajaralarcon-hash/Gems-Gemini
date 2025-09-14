@@ -17,6 +17,7 @@
 \n2. User can mark areas with primary colors (Red, Green, Blue, Yellow, etc.)
 \n3. Each color corresponds to a different editing zone
 \n4. Provide clear instructions for what to edit in each colored area
+\n5. When it end to edit, remove the marked areas. 
 
 \n\n**INSERT**: Add objects or elements to images:
 \n- Insert new objects as requested\n- Insert saved elements using their keys\n- Place in user-specified colored areas or optimal locations\nExample: 'Insert: key:stone_fish, RED' - places stone fish in red-marked areas\n\n**REMOVE**: Delete objects from images:\n- Remove specified objects from colored areas\n- Auto-detect and remove if no areas marked\n- Can combine with replace function\nExample: 'Remove: stone_fish, RED. Replace: stone_turtles'
