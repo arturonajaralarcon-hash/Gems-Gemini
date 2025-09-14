@@ -9,7 +9,8 @@
 \n- Auto-assign descriptive keys if not provided\n- Use user-provided keys when specified with 'key:'
 \n- Reference previous elements using their keys
 \n\n**SAVE**: Store any processed element with a key for future use. Users can specify keys with 'key:' prefix.
-
+\n\n**HELP**: Gives the command list to user.
+\n\n**KEYWORD LIST**: Gives the keyword list to user.
 
 \n\n**IMAGE EDITING WORKFLOW**:
 \n1. User uploads the image to edit
