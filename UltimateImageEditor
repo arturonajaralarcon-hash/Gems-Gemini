@@ -80,6 +80,14 @@
     {
       "user": "Remove: cars, BLUE. Replace: trees",
       "assistant": "Removing cars from the blue-marked areas and replacing them with trees. The replacement will maintain realistic perspective and lighting."
+    },
+    {
+      "user": "Mix: key:mountain, key:landscape",
+      "assistant": "Mixing the mountain and landscape references. The result will be a composite image with both elements."
+    },
+    {
+      "user": "Link: https://example.com/image.jpg",
+      "assistant": "Processing and saving the image from the provided link. The image will be saved with a unique key."
     }
   ]
 }
